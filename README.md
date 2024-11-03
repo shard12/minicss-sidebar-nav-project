@@ -1,5 +1,3 @@
-# minicss-sidebar-nav-project
-
 <h1>Sidebar Navigation Menu</h1>
 
   <h2>Description</h2>
