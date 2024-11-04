@@ -23,7 +23,7 @@
   <h2>Installation</h2>
     <ol>
         <li>Clone the repository:
-            <pre><code>git clone https://github.com/yourusername/sidebar-navigation-menu.git</code></pre>
+            <pre><code>git clone https://github.com/shard12/sidebar-navigation-menu.git</code></pre>
         </li>
         <li>Navigate to the project directory:
             <pre><code>cd sidebar-navigation-menu</code></pre>
