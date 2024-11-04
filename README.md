@@ -34,6 +34,9 @@
   <h2>Usage</h2>
     <p>Simply click the hamburger icon to toggle the sidebar. Use the links to navigate through different sections.</p>
 
+  ![image](https://github.com/user-attachments/assets/9a29fc3f-b29d-4a92-a800-5bdd591b6548)
+
+
   <h2>Contributing</h2>
     <p>Contributions are welcome! Feel free to open issues or submit pull requests.</p>
 
